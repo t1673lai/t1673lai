@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @t1673lai(Peng-Jen Lai 賴鵬仁)
-- 👀 I’m interested in "Using shareware (GeoGebra, Python, R, JavaScript,,,) to explore Mathematics, generative arts, puzzle,,,"
-- 🌱 I’m currently learning Python, R, data science,,,
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in "Using shareware (GeoGebra, Python,) to explore Mathematics, generative arts, puzzle,,,"
+- 🌱 I’m currently learning Python, GeoGebra, Mathigon
+- 💞️ I’m looking to collaborate on anyone who interesed in explore Mathematics with shareware
 - 📫 How to reach me: t1673Lai@gmail.com, laibird@nknu.edu.tw
 
 <!---
